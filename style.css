@@ -18,8 +18,10 @@ a{
 }
 .main{
 	width: 900px;
+	height: 91vh;
 	margin: auto;
 	display: blcok;
+	
 }
 .title{
 	font-family: 'Open Sans', sans-serif;
