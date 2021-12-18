@@ -1,20 +1,4 @@
-﻿![](Aspose.Words.9f0515d9-a995-41c8-bb9c-072200f85d04.001.png)
-
-**CITY UNIVERSITY** 
-
-Faculty of Science and Engineering Department of Computer Science and Engineering Summer 2021 
-
-SE 403 Web Database Programming Laboratory   
-
-**Lab Report on** Basics of CSS 
-
-**Submitted to** Sahabuddin Jony Lecturer, Dept. of CSE City University. 
-
-**Submitted by** Md. Reduan Masud 1834902061 
-
-Date of Submission: 18/12/2021 
-
-**CSS** 
+﻿**CSS** 
 
 **CSS** Cascading Style Sheet, is used for styling or designing a web page. By using CSS we can interactively design a web page. We can make our web page responsive using CSS.  
 
