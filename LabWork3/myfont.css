@@ -1,0 +1,25 @@
+@font-face{
+    font-family: OpenSans;
+    src: url(fonts/OpenSans-Regular.ttf);
+}
+
+@font-face{
+    font-family: OpenSansBold;
+    src: url(fonts/OpenSans-Bold.ttf);
+}
+
+@font-face{
+    font-family: OpenSansSemiBoldItalic;
+    src: url(fonts/OpenSans-SemiBoldItalic.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans SemiBold';
+    src: url(fonts/OpenSans-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Entypo';
+    src: url(fonts/Entypo.otf);
+    unicode-range: U+00-FF;
+}
